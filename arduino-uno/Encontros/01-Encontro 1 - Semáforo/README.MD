@@ -4,12 +4,6 @@
 
 Os projetos são uma forma de fixar os conhecimentos aprendidos ao longo dos  textos anteriores. A ideia é usar todos os conceitos novos para montar algo que  tenha uma funcionalidade ou aplicação mais complexa e divertida, como, por  exemplo, o semáforo de LEDs que vamos montar a seguir
 
-Os principais tópicos abordados durante o desenvolvimento foram:
-
-- Importar fontes externas.
-- Usar css externo (⬆ Organização do código).
-- Responsividade de tela.
-
 ### 🛠 Lista de materiais
 
 - 1 WORKPLATE ARDUINO BLACK COM CABO USB

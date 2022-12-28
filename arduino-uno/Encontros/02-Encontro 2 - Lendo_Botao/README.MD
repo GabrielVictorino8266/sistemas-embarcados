@@ -1,17 +1,12 @@
 # Hi, I'm Gabriel! See my project below  👋
 
-## LENDO BOTÃO | AULA 01
+## LENDO BOTÃO | AULA 02
 
 otão é um dos dispositivos mais populares quando se fala de interface humano-máquina. Seja no seu smartphone, nos elevadores ou até mesmo em sua 
 própria sala, com o interruptor de luz, os botões são responsáveis por disparar 
 ações em diversos sistemas eletrônicos presentes no nosso dia a dia. 
 Com um simples apertar, você pode ligar uma lâmpada, travar a tela do seu celular ou interagir com um jogo eletrônico. Onde mais encontramos botões?
 
-Os principais tópicos abordados durante o desenvolvimento foram:
-
-- Importar fontes externas.
-- Usar css externo (⬆ Organização do código).
-- Responsividade de tela.
 
 ### Entradas digitais
 Você viu como os pinos do Arduino funcionam como saída digital: a 

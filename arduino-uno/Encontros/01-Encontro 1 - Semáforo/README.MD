@@ -12,12 +12,12 @@ Os principais tópicos abordados durante o desenvolvimento foram:
 
 ### 🛠 Lista de materiais
 
-• 1 WORKPLATE ARDUINO BLACK COM CABO USB
-• 2 LEDs VERDES 5mm
-• 1 LED AMARELO 5mm
-• 2 LEDs VERMELHOS 5mm
-• 5 RESISTORES 300Ω
-• JUMPERS
+- 1 WORKPLATE ARDUINO BLACK COM CABO USB
+- 2 LEDs VERDES 5mm
+- 1 LED AMARELO 5mm
+- 2 LEDs VERMELHOS 5mm
+- 5 RESISTORES 300Ω
+- JUMPERS
 ## Screenshots
 
 ![preview](preview.jpg)

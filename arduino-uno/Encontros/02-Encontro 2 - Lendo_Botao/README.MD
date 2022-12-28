@@ -1,6 +1,6 @@
 # Hi, I'm Gabriel! See my project below  👋
 
-## SEMÁFORO | AULA 01
+## LENDO BOTÃO | AULA 01
 
 otão é um dos dispositivos mais populares quando se fala de interface humano-máquina. Seja no seu smartphone, nos elevadores ou até mesmo em sua 
 própria sala, com o interruptor de luz, os botões são responsáveis por disparar 
@@ -18,7 +18,7 @@ Você viu como os pinos do Arduino funcionam como saída digital: a
 energia circula por eles até o LED. Entretanto, eles também podem 
 ser configurados para fazer o contrário, deixando que a energia circular de fora para dentro, podendo ser medida. Assim, fica fácil detectar quando a tensão que entra no Arduino é 5V e quando é 0V.
 Desse modo, quando queremos usar um botão com nossa placa, 
-basta conectá-lo corretamente a um pino que esteja configurado como entrada. Depois disso, poderemos detectar se o botão 
+basta conectá-lo corretamente a um pino que esteja configurado como entrada. Depois disso, poderemos detectar se o botão 
 está pressionado ou solto
 
 ### Resistor de pull-down
